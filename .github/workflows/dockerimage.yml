@@ -9,7 +9,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -34,7 +33,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -57,7 +55,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -80,7 +77,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -103,7 +99,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -126,7 +121,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -149,7 +143,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -183,7 +176,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -206,7 +198,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -228,7 +219,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -251,7 +241,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -274,7 +263,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -299,7 +287,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -322,7 +309,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -344,7 +330,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -369,7 +354,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -406,7 +390,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -431,7 +414,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -454,7 +436,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -479,7 +460,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -502,7 +482,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -527,7 +506,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -550,7 +528,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -573,7 +550,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -598,7 +574,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -621,7 +596,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -643,7 +617,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -666,7 +639,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -688,7 +660,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -713,7 +684,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -738,7 +708,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -763,7 +732,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -786,7 +754,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -815,7 +782,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -838,7 +804,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -861,7 +826,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -884,7 +848,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -907,7 +870,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -930,7 +892,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -953,7 +914,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -976,7 +936,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
@@ -1001,7 +960,6 @@ jobs:
             - name: Free disk space
               run: |
                 df -h
-                sudo apt-get remove -y '^ghc-8.*' '^dotnet-.*' '^llvm-.*' 'php.*' azure-cli google-cloud-sdk hhvm google-chrome-stable firefox powershell mono-devel
                 sudo apt-get autoremove -y
                 sudo apt-get clean
                 sudo swapoff -a
